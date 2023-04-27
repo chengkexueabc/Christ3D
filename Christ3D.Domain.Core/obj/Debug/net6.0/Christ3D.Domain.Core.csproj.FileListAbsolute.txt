@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\bin\Debug\net6.0\Christ3D.Domain.Core.deps.json
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\bin\Debug\net6.0\Christ3D.Domain.Core.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\bin\Debug\net6.0\Christ3D.Domain.Core.pdb
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\refint\Christ3D.Domain.Core.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\Christ3D.Domain.Core.pdb
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domain.Core\obj\Debug\net6.0\ref\Christ3D.Domain.Core.dll

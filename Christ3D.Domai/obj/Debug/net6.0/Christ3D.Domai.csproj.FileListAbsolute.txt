@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\bin\Debug\net6.0\Christ3D.Domai.deps.json
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\bin\Debug\net6.0\Christ3D.Domai.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\bin\Debug\net6.0\Christ3D.Domai.pdb
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\refint\Christ3D.Domai.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.pdb
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\ref\Christ3D.Domai.dll
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\bin\Debug\net6.0\Christ3D.Domai.runtimeconfig.json
+C:\Users\Administrator\source\repos\Christ3D\Christ3D.Domai\obj\Debug\net6.0\Christ3D.Domai.genruntimeconfig.cache
